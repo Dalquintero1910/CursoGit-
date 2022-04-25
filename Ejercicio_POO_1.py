@@ -35,4 +35,5 @@ daniel = Cliente("111111C","Daniel","Almario Quintero")
 empresa= Empresa(clientes=[hector,juan])
 empresa.mostrar_cliente("222222B")
 empresa.borrar_cliente("222222B")
-#print(str(juan))
+print(str(juan))
+
